@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Secret Story</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ini adalah tempat di mana Anda dapat menyimpan semua rahasiamu</string>
+    <string name="title_welcome_page">Selamat datang di Kisah Rahasia Saya!</string>
+    <string name="title_signup_page">Daftar dulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan Email dan Passwordnya</string>
+    <string name="title_login_page">Langsung aja Login</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Menikmati ceritanya.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="error">Error</string>
+    <string name="desc_menu1">ini deskripsi</string>
+    <string name="description">ini detail deskripsi</string>
+    <string name="languange">Bahasa</string>
+    <string name="tmbl_setting">Tombol pengaturan bahasa</string>
+    <string name="tmbl_logout">Tombol keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_x">KameraX</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Masukkan Gambar Dahulu</string>
+</resources>
